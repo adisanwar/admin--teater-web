@@ -486,8 +486,8 @@ const _nav = [
   },
   {
     component: CNavItem,
-    name: 'Show Management',
-    to: '/theme/colors',
+    name: 'Users',
+    to: '/users',
     icon: <CIcon icon={cilDrop} customClassName="nav-icon" />,
   },
   {
